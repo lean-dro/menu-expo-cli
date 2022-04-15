@@ -26,7 +26,7 @@ echo.
 echo ================================
 set /p nomeProjct=Digite o nome do projeto: 
 echo.
-expo init %nomeProjct% & cd %nomeProjct% & code . & expo start
+expo init %nomeProjct% & cd %nomeProjct% & code . & cls & expo start
 
 :sair
 exit
