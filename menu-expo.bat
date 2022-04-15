@@ -1,5 +1,5 @@
 @echo off
-title Expo-GUI
+title Menu Expo
 
 :menu
 echo.
