@@ -22,7 +22,7 @@ npm install -g expo-cli & cls & menu-expo.bat
 :newprojct
 echo.
 echo ================================
-set /p nomeProjct=Digite o nome do projeto:
+set /p nomeProjct=Digite o nome do projeto: 
 echo.
 expo init %nomeProjct% & cd %nomeProjct% & code . & expo start
 
