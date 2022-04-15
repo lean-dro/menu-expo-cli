@@ -17,6 +17,8 @@ IF errorlevel==2 goto newprojct
 IF errorlevel==1 goto install
 
 :install
+cls
+echo.
 npm install -g expo-cli & cls & menu-expo.bat
 
 :newprojct
