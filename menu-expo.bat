@@ -15,7 +15,7 @@ IF errorlevel==2 goto newprojct
 IF errorlevel==1 goto install
 
 :install
-npm install -g expo-cli & cls & expo-gui.bat
+npm install -g expo-cli & cls & menu-expo.bat
 
 :newprojct
 echo ================================
