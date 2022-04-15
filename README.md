@@ -1,5 +1,5 @@
 # menu-expo-cli
-Menu criado para agilizar no processo de criação de projetos em React Native utilizando o Expo
+Menu para agilizar no processo de criação de projetos em React Native utilizando o Expo
 
 ## Como usar
 1. Cole o arquivo **menu-expo.bat** na pasta que deseja criar o projeto.
